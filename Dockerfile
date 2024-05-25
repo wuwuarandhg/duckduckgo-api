@@ -1,5 +1,5 @@
 # 使用官方 Python 3.9 镜像作为基础镜像
-FROM python:3.9
+FROM python:3.11
 
 # 将工作目录切换到 /app
 WORKDIR /app
